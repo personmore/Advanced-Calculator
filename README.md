@@ -1,6 +1,6 @@
 # Advanced-Calculator
 
-Fun little project I did in C++ as a beginner only using <iostream> and <cmath>
+Fun little project I did in C++ as a beginner only using iostream and cmath
 
 ## Uses
 
